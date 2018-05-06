@@ -7,9 +7,9 @@
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {
     "clarinet": "^0.12.0",
     "cookie": "^0.2.3",
+    "js-logger": "git+https://github.com/sagansystems/js-logger.git",
     "jsonwebtoken": "^8.2.1",
     "lodash": "^4.17.10",
     "mosca": "^2.8.1",
@@ -17,8 +17,7 @@
     "node-rdkafka": "^2.3.1",
     "node-statsd": "^0.1.1",
     "node-uuid": "^1.4.7",
-    "node-zookeeper-client": "^0.2.2"
-  },
-  "devDependencies": {},
+    "node-zookeeper-client": "^0.2.2",
+    "raven": "https://registry.npmjs.org/raven/-/raven-0.10.0.tgz"  "devDependencies": {},
   "description": ""
 }
