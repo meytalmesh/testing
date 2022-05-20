@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "dependencies": {
     "moment": "2.8.3",
-    "moment-timezone": "0.2.4",
+    "moment-timezone": "0.5.34",
     "node-notifier": "=5.4.4"
   }
 }
