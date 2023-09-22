@@ -60,7 +60,7 @@ cffi==1.15.0; python_version >= "3.6" \
     --hash=sha256:2a23af14f408d53d5e6cd4e3d9a24ff9e05906ad574822a10563efcef137979a \
     --hash=sha256:3773c4d81e6e818df2efbc7dd77325ca0dcb688116050fb2b3011218eda36139 \
     --hash=sha256:920f0d66a896c2d99f0adbb391f990a84091179542c205fa53ce5787aff87954
-cryptography==36.0.1; python_version >= "3.6" \
+cryptography==41.0.4; python_version >= "3.6" \
     --hash=sha256:73bc2d3f2444bcfeac67dd130ff2ea598ea5f20b40e36d19821b4df8c9c5037b \
     --hash=sha256:2d87cdcb378d3cfed944dac30596da1968f88fb96d7fc34fdae30a99054b2e31 \
     --hash=sha256:74d6c7e80609c0f4c2434b97b80c7f8fdfaa072ca4baab7e239a15d6d70ed73a \
